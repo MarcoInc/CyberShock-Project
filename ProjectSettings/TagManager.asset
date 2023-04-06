@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Medikit
+  - Checkpoint
+  - Point
+  - End
+  - Enemy
+  - BulletPlayer
+  - EnemyBullet
+  - Lives
+  - Particle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Backbackground
+  - 
+  - 
+  - 
+  - 
+  - Background
+  - Foreground
+  - Enemy
+  - Player
+  - Oltreground
+  - Teleport
+  - Effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3895619511
+    locked: 0
+  - name: Ground
+    uniqueID: 4255615759
+    locked: 0
+  - name: PG
+    uniqueID: 3384297149
+    locked: 0
+  - name: Item
+    uniqueID: 268557147
+    locked: 0
+  - name: Trigger
+    uniqueID: 3619111367
+    locked: 0
+  - name: Effect
+    uniqueID: 867318027
+    locked: 0
+  - name: HUD
+    uniqueID: 2629933703
+    locked: 0

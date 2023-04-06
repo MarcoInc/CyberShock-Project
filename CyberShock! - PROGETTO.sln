@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberShock! - PROGETTO", "Assembly-CSharp.csproj", "{0062E0F8-32C0-0060-DE34-6E64811492DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberShock! - PROGETTO", "Assembly-CSharp-Editor.csproj", "{ABE03A94-8519-AA90-B4DD-20C1197AEB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0062E0F8-32C0-0060-DE34-6E64811492DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0062E0F8-32C0-0060-DE34-6E64811492DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0062E0F8-32C0-0060-DE34-6E64811492DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0062E0F8-32C0-0060-DE34-6E64811492DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE03A94-8519-AA90-B4DD-20C1197AEB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE03A94-8519-AA90-B4DD-20C1197AEB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE03A94-8519-AA90-B4DD-20C1197AEB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE03A94-8519-AA90-B4DD-20C1197AEB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
