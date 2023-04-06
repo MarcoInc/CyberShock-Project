@@ -18,7 +18,11 @@ Timed game with timeout
 And so on..  
 
 note: the project was created with Unity 2017.3.1f1, so I do not guarantee correct operation with other versions
+
+SCREENSHOTS
+<div style="width: 60%; height: 60%">
 ![Screenshot (1)](https://user-images.githubusercontent.com/47932432/230493254-5f12dee9-b3a1-4fa9-a0a3-c5c3c8770943.png)
+  </div>
 ![Screenshot (2)](https://user-images.githubusercontent.com/47932432/230493276-45d723e2-2367-496c-bf70-f8cb704c0aca.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/47932432/230493281-507203d7-d32c-4fc7-86c8-f4f4915baff9.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/47932432/230493262-38b4e0f5-0d36-4810-916f-512c2ae8b2b0.png)
