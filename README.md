@@ -6,7 +6,7 @@ It contains references to various movies and video games of the time such as Rob
 <h3>Features:</h3>  
 Intro, Continue, Gameover, and Game Completed scenes  
 Tutorial and game levels  
-Settings menu  
+Settings menu
 Pause menu  
 2 levels of difficulty  
 Rank for best score records  
