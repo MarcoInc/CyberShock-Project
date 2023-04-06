@@ -3,7 +3,7 @@ Cybershock is a small project built with Unity.
 It is a 2D side-scrolling shot-em-up inspired by 80s pop culture with sound and graphics elements of New Retro Wave and Synthwave style
 It contains references to various movies and video games of the time such as Robocop, Terminator, Bad Dudes vs. Dragonninja, System Shock and many others.
 
-Features:  
+<h3>Features:</h3>  
 Intro, Continue, Gameover, and Game Completed scenes  
 Tutorial and game levels  
 Settings menu  
@@ -19,7 +19,8 @@ And so on..
 
 note: the project was created with Unity 2017.3.1f1, so I do not guarantee correct operation with other versions
 
-SCREENSHOTS  
+<h3>Screenshot</h3>
+
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493254-5f12dee9-b3a1-4fa9-a0a3-c5c3c8770943.png"></img>
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493276-45d723e2-2367-496c-bf70-f8cb704c0aca.png"></img>
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493281-507203d7-d32c-4fc7-86c8-f4f4915baff9.png"></img>
