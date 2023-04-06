@@ -19,7 +19,7 @@ And so on..
 
 note: the project was created with Unity 2017.3.1f1, so I do not guarantee correct operation with other versions
 
-<h3>Screenshot</h3>
+<h3>Screenshots</h3>
 
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493254-5f12dee9-b3a1-4fa9-a0a3-c5c3c8770943.png"></img>
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493276-45d723e2-2367-496c-bf70-f8cb704c0aca.png"></img>
