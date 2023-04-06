@@ -30,4 +30,3 @@ note: the project was created with Unity 2017.3.1f1, so I do not guarantee corre
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493284-806fd829-ffd3-4eb6-bfef-09ac5e27e1e5.png"></img>
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493277-98633cfb-6ec2-4736-a605-9f17916db1c2.png"></img>  
 <img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493294-29b34e06-5f7c-400f-a9e5-4d74189284a6.png"></img>
-<img width="420" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/47932432/230493295-92213bfa-5f61-4a54-9fe3-07ece1161fac.png"></img>
