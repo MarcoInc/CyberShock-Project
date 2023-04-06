@@ -4,18 +4,18 @@ It is a 2D side-scrolling shot-em-up inspired by 80s pop culture with sound and 
 It contains references to various movies and video games of the time such as Robocop, Terminator, Bad Dudes vs. Dragonninja, System Shock and many others.
 
 <h3>Features:</h3>  
-Intro, Continue, Gameover, and Game Completed scenes  
-Tutorial and game levels  
-Settings menu
-Pause menu  
-2 levels of difficulty  
-Rank for best score records  
-Powerups like 1UP and health  
-Checkpoints  
-Animations and particle effects  
-PlayerPrefs  
-Timed game with timeout  
-And so on..  
+<p>Intro, Continue, Gameover, and Game Completed scenes</p>
+<p>Tutorial and game levels</p>
+<p>Settings menu</h5>
+<p>Pause menu</p>
+<p>2 levels of difficulty</p>  
+<p>Rank for best score records</p>  
+<p>Powerups like 1UP and health</p>  
+<p>Checkpoints</p>  
+<p>Animations and particle effects</p>  
+<p>PlayerPrefs</h5>  
+<p>Timed game with timeout</p>  
+<p>And so on..</p>  
 
 note: the project was created with Unity 2017.3.1f1, so I do not guarantee correct operation with other versions
 
