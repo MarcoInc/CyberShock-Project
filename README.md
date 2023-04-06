@@ -15,4 +15,6 @@ Checkpoints
 Animations and particle effects  
 PlayerPrefs  
 Timed game with timeout  
-And so on..    
+And so on..  
+
+note: the project was created with Unity 2017.3.1f1, so I do not guarantee correct operation with other versions
